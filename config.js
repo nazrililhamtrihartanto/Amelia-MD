@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6281393160368', '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorbot = '-'
+global.nameown = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡'
+global.nomorown = '6281393160368'
+global.nomorown1 = '6281393160368'
+global.nomorown2 = '6281393160368'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,34 +69,34 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.author = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti aja cuyyy
+global.namebot = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿' //nama bot luh
+global.wm = '© 𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = '𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `𝙉𝙖𝙯𝙧𝙞𝙡𝙈𝘿 | 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡` //gantu aja
+global.stickpack = '𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡' //ganti 
+global.stickauth = `© 𝙉𝙖𝙯𝙧𝙞𝙡𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡𝙡` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Nazril' //ganti 
+global.nameown2 = 'Nazril' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
+global.sig = 'https://instagram.com/' //ganti jadi ig mu
+global.sgh = 'https://github.com/nazrililhamtrihartanto' //github
+global.sgc = 'https://chat.whatsapp.com/' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
+global.snh = 'https://youtube.com/' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = 'Chat Owner !!'
@@ -536,7 +536,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.dtu = '?????????'
 global.urlnya = "https://www.instagram.com/l4c1f2r"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
+global.phn = '0813-9316-0368'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
